@@ -18,7 +18,7 @@ I'm a student at New Era University studying Computer Science. And I am excited 
 
 ### Certification 
 SQL and Relational Databases 101 <br>
-![Uploading Screenshot 2024-10-27 234118.png…]()</br>
+![Uploading Screenshot 2024-10-27 234118.jpg…]()</br>
 [IBM DB0101EN Certificate _ Cognitive Class.pdf](https://github.com/user-attachments/files/17534484/IBM.DB0101EN.Certificate._.Cognitive.Class.pdf)
 <br>Certificate ID Number:  </br>
 cc1e8ee5af2b4f00b5b180f37df867d4
