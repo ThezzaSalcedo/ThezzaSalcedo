@@ -17,6 +17,7 @@ I'm a student at New Era University studying Computer Science. And I am excited 
 </p>
 
 ### Certification 
+[IBM DB0101EN Certificate _ Cognitive Class.pdf](https://github.com/user-attachments/files/17534484/IBM.DB0101EN.Certificate._.Cognitive.Class.pdf)
 
 ### Socials
 
