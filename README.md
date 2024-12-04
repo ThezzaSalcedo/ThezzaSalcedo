@@ -21,6 +21,10 @@ SQL and Relational Databases 101
 <br>[IBM DB0101EN Certificate _ Cognitive Class.pdf](https://github.com/user-attachments/files/17534484/IBM.DB0101EN.Certificate._.Cognitive.Class.pdf)
 <br>Certificate ID Number:  </br>
 cc1e8ee5af2b4f00b5b180f37df867d4
+Oracle Cloud Infrastructure Foundations Associate course.
+<br>[ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB7FACFEADEAE2695311DBEA8F68E2C5FA959DB7779D4122E4B0CC56D2EC3AA3)
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/ThezzaSalcedo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
