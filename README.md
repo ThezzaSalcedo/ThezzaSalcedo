@@ -23,10 +23,13 @@ SQL and Relational Databases 101
 cc1e8ee5af2b4f00b5b180f37df867d4 </br>
 <br>Oracle Cloud Infrastructure Foundations Associate course.</br>
 [ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB7FACFEADEAE2695311DBEA8F68E2C5FA959DB7779D4122E4B0CC56D2EC3AA3)  
+<br>Oracle Cloud Data Management Foundations Associate</br>
+[ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB7FACFEADEAE2695311DBEA8F68E2C5A2C28314CE1E0A52EA53795CBCFB32A7) 
+<br>OCI AI Foundations Associate (2024)</br>
+[ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB7FACFEADEAE2695311DBEA8F68E2C5A2C28314CE1E0A52EA53795CBCFB32A7) 
 
 
 ### Socials
-
 <p align="left"> <a href="https://www.github.com/ThezzaSalcedo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
