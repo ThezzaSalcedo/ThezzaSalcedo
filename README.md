@@ -26,7 +26,7 @@ cc1e8ee5af2b4f00b5b180f37df867d4 </br>
 <br>Oracle Cloud Data Management Foundations Associate</br>
 [ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB7FACFEADEAE2695311DBEA8F68E2C5A2C28314CE1E0A52EA53795CBCFB32A7) 
 <br>OCI AI Foundations Associate (2024)</br>
-[ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=FB7FACFEADEAE2695311DBEA8F68E2C5A2C28314CE1E0A52EA53795CBCFB32A7) 
+[ORACLE BADGE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=7796B1F647BC62AF26D840186B5F10757C823A4EE7699DACD6F405B2B4377F28) 
 
 
 ### Socials
